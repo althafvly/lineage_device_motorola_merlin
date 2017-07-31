@@ -7,6 +7,7 @@ ro.qc.sdk.audio.fluencetype=fluence
 
 # Display
 ro.sf.lcd_density=320
+debug.hwui.use_buffer_age=false
 
 # Radio
 persist.radio.force_get_pref=1
@@ -15,3 +16,4 @@ persist.radio.mot_ecc_enabled=1
 persist.radio.multisim.config=dsds
 persist.radio.plmn_name_cmp=1
 ro.telephony.ril.config=simactivation
+
